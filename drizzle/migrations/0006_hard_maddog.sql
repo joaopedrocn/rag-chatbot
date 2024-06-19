@@ -1,0 +1,1 @@
+ALTER TABLE "patients" ADD COLUMN "gender" text DEFAULT 'male' NOT NULL;
